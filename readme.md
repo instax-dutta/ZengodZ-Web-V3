@@ -49,5 +49,3 @@ The project structure is based on the standard Next.js app directory:
 - `lib/`:  Utility functions and libraries.
 - `public/`: Static assets such as images and logos.
 - `styles/`: Global CSS styles.
-
-This `readme.md` provides a basic overview of the project and should be helpful for anyone looking to understand or contribute to the codebase.
