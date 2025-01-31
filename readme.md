@@ -1,4 +1,4 @@
-# My V0 Project
+# discord invite landing page
 
 This project is a web application built with Next.js and React. It utilizes a variety of modern web development technologies and UI libraries to create a rich user interface.
 
